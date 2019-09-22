@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SanilTechjini/cypress-interview#readme",
   "devDependencies": {
-    "cypress": "^3.4.1"
+    "cypress": "^3.4.1",
+    "cypress-xpath": "^1.4.0"
   }
 }
